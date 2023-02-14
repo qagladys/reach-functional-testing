@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Sidebar_Client Particulars</name>
+   <tag></tag>
+   <elementGuidId>4dd91479-fb5a-42ef-b8c6-07301dfd8b22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/li[2]/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;tw-flex tw-bg-greyBg&quot;]/div[1]/div[@class=&quot;tw-flex tw-flex-col tw-pl-8 tw-list-none tw-pt-9 tw-text-gray-600 tw-space-y-2 tw-bg-greyBg&quot;]/li[@class=&quot;hover:tw-bg-active tw-rounded-lg hover:tw-text-blue-800&quot;]/a[1]/div[@class=&quot;tw-flex tw-py-3 tw-px-5 tw-flex-row tw-space-x-5&quot;]/div[@class=&quot;hover:tw-text-blue-800&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>725e8c6f-6cf6-4f6c-ad13-1df28259d0a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:tw-text-blue-800</value>
+      <webElementGuid>74f25641-c7fc-4b65-b7ac-990ba111e1b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Client Particulars</value>
+      <webElementGuid>b135d437-8b93-45b0-8469-d4467da698da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;tw-flex tw-bg-greyBg&quot;]/div[1]/div[@class=&quot;tw-flex tw-flex-col tw-pl-8 tw-list-none tw-pt-9 tw-text-gray-600 tw-space-y-2 tw-bg-greyBg&quot;]/li[@class=&quot;hover:tw-bg-active tw-rounded-lg hover:tw-text-blue-800&quot;]/a[1]/div[@class=&quot;tw-flex tw-py-3 tw-px-5 tw-flex-row tw-space-x-5&quot;]/div[@class=&quot;hover:tw-text-blue-800&quot;]</value>
+      <webElementGuid>4f24e393-250e-4d38-957d-28d8192568a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/li[2]/a/div/div</value>
+      <webElementGuid>9ebc62bc-e88e-415d-b464-24ea44835921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[2]</value>
+      <webElementGuid>85f91c43-d17c-421f-9ca4-06f90a208fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EB Customers'])[1]/preceding::div[1]</value>
+      <webElementGuid>9ce4f5a1-4be7-4202-b232-7a83f4beb26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quotation'])[1]/preceding::div[3]</value>
+      <webElementGuid>b41ac6ed-f55c-41c7-84f1-cb5a6ab5336a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Client Particulars']/parent::*</value>
+      <webElementGuid>485f10a5-3429-464a-8afd-e7eab0827900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div/div</value>
+      <webElementGuid>5c6d4cdd-3309-4de3-ba27-299603bd38f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Client Particulars' or . = 'Client Particulars')]</value>
+      <webElementGuid>5c8d82bb-1500-4380-b16c-1eb9751d57bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

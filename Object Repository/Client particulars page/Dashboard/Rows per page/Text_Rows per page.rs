@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_Rows per page</name>
+   <tag></tag>
+   <elementGuidId>58386efa-7deb-407c-9aa2-c8e5dc8d21c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div[3]/div/div[4]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a5207e07-0526-4d39-a172-72a47183b5ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-2</value>
+      <webElementGuid>0f01aae6-34aa-442f-8064-fb6965d0db8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rows per page</value>
+      <webElementGuid>dec021f1-9985-4c69-b4e2-2878028217d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;tw-flex tw-bg-greyBg&quot;]/div[2]/div[1]/div[@class=&quot;sc-iCoGMd gCaKTG&quot;]/div[1]/div[@class=&quot;table-employee&quot;]/div[@class=&quot;table-employee&quot;]/div[@class=&quot;flex flex-space-between mt-2&quot;]/div[@class=&quot;flex align-items-center&quot;]/div[@class=&quot;mr-2&quot;]</value>
+      <webElementGuid>31242580-55c1-4ade-ab7a-ae2fb9bc562c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div[3]/div/div[4]/div/div[2]/div/div</value>
+      <webElementGuid>917528fd-4ec5-40f7-bb7e-1391288ae906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::div[2]</value>
+      <webElementGuid>cb05bd53-37d5-4487-a376-333d37b62205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::div[3]</value>
+      <webElementGuid>3b49d5f3-9f96-4ed4-a88a-f2629778c31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[4]</value>
+      <webElementGuid>0abcca59-1cab-4b27-9561-e732409be1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[4]</value>
+      <webElementGuid>eb3122df-bef0-4c86-a3a9-4bfbd884b89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rows per page']/parent::*</value>
+      <webElementGuid>d56cbc45-6a70-4573-9646-5e2e9dbfa941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div</value>
+      <webElementGuid>6aeafd23-d61f-4d06-9afb-d05377579a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rows per page' or . = 'Rows per page')]</value>
+      <webElementGuid>45aa70d7-743a-4a3e-8ec2-a5df73a31a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Element_Row</name>
+   <tag></tag>
+   <elementGuidId>af88f41d-4780-4051-be0e-3702c4c615ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/div[2]/div/div[3]/div/div[4]/div/div[1]/div/div/div/div/div/table/tbody/tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>5795c9d5-f2a2-448b-a0dd-4b75d619da2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1675759727334</value>
+      <webElementGuid>08ffd5b4-844a-45bb-bd4e-4192a251c234</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

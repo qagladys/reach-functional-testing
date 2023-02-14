@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Unique_Dashboard_Client Particulars</name>
+   <tag></tag>
+   <elementGuidId>0707ef6c-d0c5-40b2-b02b-e47e3a0281fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.tw-flex.tw-font-bold.tw-text-2xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b8de323-35bf-4b1f-b155-a06ece0ca0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-flex tw-font-bold tw-text-2xl</value>
+      <webElementGuid>0cd49f8d-d5e6-4b4d-8b9f-38550f200bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Client Particulars</value>
+      <webElementGuid>3a20ea7f-3ee9-41aa-8f28-386543604171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;tw-flex tw-bg-greyBg&quot;]/div[2]/div[1]/div[@class=&quot;tw-flex tw-flex-row tw-justify-between tw-pb-5&quot;]/div[1]/span[@class=&quot;tw-flex tw-font-bold tw-text-2xl&quot;]</value>
+      <webElementGuid>985153c2-78ed-4706-b705-691447d3e1bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/span</value>
+      <webElementGuid>2923a056-f6b2-4e76-83f0-a4d3986349b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quotation'])[1]/following::span[1]</value>
+      <webElementGuid>16d6444f-fce4-482a-81ef-5ca1447894f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EB Customers'])[1]/following::span[1]</value>
+      <webElementGuid>c3855704-e629-416d-afe4-969f003b4b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Picker'])[1]/preceding::span[1]</value>
+      <webElementGuid>efa00d86-b5de-4758-a624-ed060b564915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>33e866ed-db93-4339-8da4-331f9a96799d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Client Particulars' or . = 'Client Particulars')]</value>
+      <webElementGuid>07589f49-81bf-4a3b-817d-9f52a2e427b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
